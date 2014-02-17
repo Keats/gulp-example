@@ -74,7 +74,7 @@ gulp.task 'build', ->
   runSequence 'clean', ['style', 'lint', 'src', 'html']
 
 gulp.task 'default', [
-	'build'
-	'connect'
-	'watch'
+  'build'
+  'connect'
+  'watch'
 ]
