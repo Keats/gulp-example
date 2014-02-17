@@ -1,7 +1,7 @@
 Gulp Example
 =============
 
-This is an example of using Gulp for a basic app to illustrate [BLOG POST ADDRESS].  
+This is an example of using Gulp for a basic app to illustrate http://vincent.is/introducing-people-to-gulp/.  
 
 To run the project
 
