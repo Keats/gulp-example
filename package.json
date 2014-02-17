@@ -1,0 +1,24 @@
+{
+  "name": "blogulp",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "coffee-script": "^1.7.1",
+    "gulp": "^3.5.2",
+    "gulp-coffeelint": "^0.2.2",
+    "gulp-concat": "^2.1.7",
+    "gulp-uglify": "^0.2.1",
+    "gulp-coffee": "^1.4.1",
+    "gulp-connect": "^0.9.0",
+    "gulp-sass": "^0.7.0",
+    "gulp-util": "^2.2.14",
+    "run-sequence": "^0.3.5",
+    "gulp-clean": "^0.2.4"
+  }
+}
