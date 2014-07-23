@@ -8,5 +8,5 @@ To run the project
 ```bash
 $ npm install -g gulp
 $ npm install
-$ gulp --require coffee-script/register
+$ gulp
 ```
